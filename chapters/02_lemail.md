@@ -6,11 +6,11 @@ L'expéditeur affiché : `Microsoft 365 <noreply@microsoft-secure.support>`
 
 Le corps du message est sobre. Logo Microsoft en haut. Texte en bleu et gris. Police propre. Message court : "Votre session a expiré suite à une mise à jour de sécurité. Cliquez ici pour vous reconnecter et éviter toute interruption de service." Un bouton bleu : **Se reconnecter**.
 
-Sarah jette un œil rapide. Le logo lui semble correct. Elle reçoit des emails de ce type régulièrement — l'IT envoie des notifications de sécurité, Microsoft envoie des alertes. Elle est pressée. Elle clique.
+L'employée jette un œil rapide. Le logo lui semble correct. Elle reçoit des emails de ce type régulièrement — l'IT envoie des notifications de sécurité, Microsoft envoie des alertes. Elle est pressée. Elle clique.
 
 ---
 
-**Ce que Sarah n'a pas vérifié**
+**Ce que l'employée n'a pas vérifié**
 
 L'adresse expéditeur : `noreply@microsoft-secure.support`. Ce n'est pas un domaine Microsoft. Le domaine officiel est `microsoft.com`. `microsoft-secure.support` est un domaine enregistré trois semaines plus tôt pour 10 euros.
 

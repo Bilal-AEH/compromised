@@ -60,6 +60,6 @@ Quand une compromission est confirmée :
 
 ## La règle des 77 heures
 
-Dans le cas de Sarah, l'attaquant a opéré 77 heures avant la découverte. La durée moyenne de non-détection dans les PME est de plusieurs semaines. Chaque heure supplémentaire augmente le volume de données exposées et complique la réponse.
+Dans le cas de l'employée, l'attaquant a opéré 77 heures avant la découverte. La durée moyenne de non-détection dans les PME est de plusieurs semaines. Chaque heure supplémentaire augmente le volume de données exposées et complique la réponse.
 
 La surveillance proactive réduit ce délai. La détection accidentelle — un coup de téléphone — n'est pas une stratégie.

@@ -1,6 +1,6 @@
 # compromis
 
-Le 14 mars, à 9h17, Sarah a cliqué sur un lien.
+Le 14 mars, à 9h17, l'employée a cliqué sur un lien.
 
 Elle n'est pas distraite. Elle n'est pas incompétente. Elle est chargée de projet dans une PME de 80 personnes, elle gère 200 emails par semaine, et ce matin-là elle avait déjà deux réunions de retard.
 
@@ -11,6 +11,6 @@ La cybersécurité n'est pas une affaire de lignes de code sur fond noir. C'est 
 ## Organisation
 
 ```
-chapters/   le déroulé de l'incident — chronologique, du point de vue de Sarah
+chapters/   le déroulé de l'incident — chronologique, du point de vue de l'utilisateur
 fiches/     les concepts techniques derrière chaque étape
 ```

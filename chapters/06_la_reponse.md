@@ -9,7 +9,7 @@ Sans plan de réponse préparé, les premières décisions sont improvisées. Et
 **Ce qui a été fait — dans le bon ordre, cette fois**
 
 **1. Contenir**
-Priorité immédiate : couper l'accès de l'attaquant. Le DSI réinitialise le mot de passe du compte de Sarah et active le MFA en urgence. Il supprime la règle de transfert automatique. Il révoque toutes les sessions actives sur le compte.
+Priorité immédiate : couper l'accès de l'attaquant. Le DSI réinitialise le mot de passe du compte de l'employée et active le MFA en urgence. Il supprime la règle de transfert automatique. Il révoque toutes les sessions actives sur le compte.
 
 L'attaquant perd son accès à 15h04 — soit 77 heures après avoir obtenu les identifiants.
 
@@ -20,7 +20,7 @@ Qu'est-ce qui a fuité ? Le DSI exporte les logs de connexion et l'historique de
 Le comptable externe est prévenu. Le virement vers le faux RIB n'a pas encore été effectué — il est bloqué à temps. Les autres contacts qui ont reçu des emails suspects pendant les 77 heures sont alertés.
 
 **4. Corriger**
-L'IT déploie le MFA sur l'ensemble des comptes de l'entreprise — pas seulement celui de Sarah. Audit des règles de transfert sur toutes les boîtes. Formation phishing planifiée pour l'ensemble des collaborateurs.
+L'IT déploie le MFA sur l'ensemble des comptes de l'entreprise — pas seulement celui de l'employée. Audit des règles de transfert sur toutes les boîtes. Formation phishing planifiée pour l'ensemble des collaborateurs.
 
 **5. Documenter**
 Un rapport d'incident est rédigé. Il décrit la chronologie, les données exposées, les actions prises, les mesures correctives. Il sera utile si une déclaration CNIL est nécessaire.
